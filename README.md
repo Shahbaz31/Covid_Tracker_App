@@ -21,4 +21,4 @@ To install the COVID-19 Tracker App:
 Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Covid19TrackerApp.git
+   git clone https://github.com/Shahbaz31/Covid_Tracker_App
