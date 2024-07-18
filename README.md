@@ -1,16 +1,24 @@
-# covid19_tracker
+# COVID-19 Tracker App
 
-A new Flutter project.
+COVID-19 Tracker App is a Flutter-based application designed to provide up-to-date statistics and data on the impact of COVID-19 across different countries. The app displays various metrics such as active cases, critical cases, recovered people, total cases, and more. This project was created using the youtube playlist of bootcamp tutorial by Asif Taj, whose comprehensive content greatly facilitated the learning process for Flutter beginners.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Global Statistics**: View COVID-19 statistics for different countries around the world.
+- **Detailed Metrics**: Track active cases, critical cases, recovered individuals, total cases, and more.
+- **Real-Time Data**: Get the latest data and updates on the COVID-19 pandemic.
+- **User-Friendly Interface**: Designed for easy navigation and quick access to information.
 
-A few resources to get you started if this is your first Flutter project:
+## Acknowledgments
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Asif Taj**: Special thanks to [Asif Taj](https://github.com/axiftajYou) for his excellent tutorial, which served as the foundation for this project. His content and learning path are invaluable resources for anyone starting with Flutter.
+- All contributors and the open-source community for their support and inspiration.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+To install the COVID-19 Tracker App:
+
+Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/Covid19TrackerApp.git
