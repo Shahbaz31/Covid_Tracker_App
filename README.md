@@ -11,7 +11,7 @@ COVID-19 Tracker App is a Flutter-based application designed to provide up-to-da
 
 ## Acknowledgments
 
-- **Asif Taj**: Special thanks to [Asif Taj](https://github.com/axiftajYou) for his excellent tutorial, which served as the foundation for this project. His content and learning path are invaluable resources for anyone starting with Flutter.
+- **Asif Taj**: Special thanks to [Asif Taj](https://github.com/axiftaj) for his excellent tutorial, which served as the foundation for this project. His content and learning path are invaluable resources for anyone starting with Flutter.
 - All contributors and the open-source community for their support and inspiration.
 
 ## Installation
